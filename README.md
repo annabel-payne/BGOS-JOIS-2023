@@ -1,4 +1,5 @@
 # JOIS 2023
+https://doi.org/10.5281/zenodo.18860088
 
 Expedition from 15/09/2023 – 11/10/2023 on the Louis St. Laurent. Departed Cambridge Bay, Nunavut, Canada. Returned to Cambridge Bay, Nunavut, Canada.
 
