@@ -1,6 +1,6 @@
 # JOIS 2023
 
-Expedition from 22/09/2023 – 17/10/2023 on the Louis St. Laurent. Departed Cambridge Bay, Nunavut, Canada. Returned to Cambridge Bay, Nunavut, Canada.
+Expedition from 15/09/2023 – 11/10/2023 on the Louis St. Laurent. Departed Cambridge Bay, Nunavut, Canada. Returned to Cambridge Bay, Nunavut, Canada.
 
 Questions regarding JOIS data should be sent to Núria Casacuberta, ETHZ: nuria.casacubertaarola@usys.ethz.ch
 
